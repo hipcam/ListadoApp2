@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://C:\Users\alexi\Downloads\ListadoApp-master\ListadoApp.iml" filepath="C:\Users\alexi\Downloads\ListadoApp-master\ListadoApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ListadoApp-master.iml" filepath="$PROJECT_DIR$/ListadoApp-master.iml" />
+      <module fileurl="file://D:\ALUMNO\ListadoApp2\ListadoApp2\ListadoApp-master.iml" filepath="D:\ALUMNO\ListadoApp2\ListadoApp2\ListadoApp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListadoApp2.iml" filepath="$PROJECT_DIR$/ListadoApp2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\alexi\Downloads\ListadoApp-master\app\app.iml" filepath="C:\Users\alexi\Downloads\ListadoApp-master\app\app.iml" />
+      <module fileurl="file://D:\ALUMNO\ListadoApp2\ListadoApp2\app\app.iml" filepath="D:\ALUMNO\ListadoApp2\ListadoApp2\app\app.iml" />
     </modules>
   </component>
 </project>
